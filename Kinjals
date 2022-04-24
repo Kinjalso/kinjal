@@ -1,0 +1,6 @@
+#include<ioatream.h>
+int main()
+{
+ cout<<"hello world";
+ return 0;
+}
